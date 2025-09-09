@@ -1,6 +1,6 @@
-# 🚀 Binance Futures Testnet Trading Bot
+# 🚀  Trading Bot
 
-A comprehensive Python trading bot for Binance Futures Testnet with advanced order types, web interfaces, and comprehensive logging.
+
 
 ## 📋 Features
 
